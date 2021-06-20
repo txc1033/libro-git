@@ -1,5 +1,4 @@
-uheLorDespeinado se unió a la sala
-ElPepiSoyYo se unió a la sala
-TristanaKillers se unió a la sala
-urielasamamasa se unió a la saa
-Kazikli Bey se unió a la sala
+Capítulo 1: Introducción a Git
+Capítulo 2: Flujo de trabajo básico
+Capítulo 3: Gestión de ramas
+Capítulo 4: Repositorios remotos
